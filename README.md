@@ -1,4 +1,4 @@
-# Student-Performance-analysis
+Student-Performance-analysis
 Data mining project on clustering
 
 Install Jupyter Lab from Anaconda Navigator
